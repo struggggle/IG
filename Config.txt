@@ -1,0 +1,4 @@
+apkName = 318APhotoM-2.apk
+appPack = de.k3b.android.androFotoFinder
+appLaunchAct = .ui.WPLaunchActivity     
+clientAddress = /home/alex-wang/Data1/R-UGA2019/InputGenerator/Client/UiTraverse

@@ -1,0 +1,4 @@
+org.wordpress.android/.ui.media.MediaGalleryPickerActivity t155}
+org.wordpress.android/.ui.posts.EditPostActivity t155}
+org.wordpress.android/.ui.posts.PostsListActivity t155}
+org.wordpress.android/.ui.main.WPMainActivity t155}

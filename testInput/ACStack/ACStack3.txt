@@ -1,0 +1,2 @@
+org.ligi.passandroid/.ui.PassEditActivity t1800}
+org.ligi.passandroid/.ui.PassListActivity t1800}

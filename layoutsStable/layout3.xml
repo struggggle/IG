@@ -1,0 +1,13 @@
+[adb shell input tap 98 182
+, adb shell input tap 1167 182
+, adb shell input tap 1370 182
+, adb shell input tap 720 393
+, adb shell input tap 720 1365
+, adb shell input tap 84 2308
+, adb shell input tap 274 2308
+, adb shell input tap 442 2308
+, adb shell input tap 610 2308
+, adb shell input tap 778 2308
+, adb shell input tap 946 2308
+, adb shell input tap 1338 2308
+]
